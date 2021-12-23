@@ -5,6 +5,13 @@
 <!--
 **soman24/soman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Education
+📚 Oregon State University | BS in Computer Science | Expected Graduation June 2023
+🎓 University of Texas at Dallas | BS in Finance | 2016 - 2020
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
