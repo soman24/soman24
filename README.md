@@ -1,6 +1,6 @@
 ### 👋 Hello, I'm Soman Khan
 
-<a href="https://www.linkedin.com/in/soman24/" target="blank"><img align="center" src="<a href="https://icons8.com/icon/5r7axn9IZ0NL/linkedin">Linkedin icon by Icons8</a>" height="100" /></a>
+
 
 
 Education
