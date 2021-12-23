@@ -1,5 +1,7 @@
 ### 👋 Hello, I'm Soman Khan 
 
+https://www.linkedin.com/in/soman24/
+
 <!--
 **soman24/soman24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
