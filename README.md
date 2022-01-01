@@ -1,7 +1,8 @@
 ### 👋 Hello, I'm Soman Khan
 
 
-![image]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+![image]({hhttps://www.linkedin.com/in/soman24/})
+
 
 Education
 - 📚 Oregon State University | BS in Computer Science | Expected Graduation June 2023
