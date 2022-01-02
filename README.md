@@ -9,4 +9,4 @@ Education
 - 🎓 University of Texas at Dallas | BS in Finance | 2016 - 2020
 
 
-Fun fact: I graduated with a finance degree and worked in finance before ultimately deciding to switch careers! 
+Fun fact: I graduated with a finance degree and worked as a financial analyst before ultimately deciding to switch careers! 
