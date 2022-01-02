@@ -5,6 +5,9 @@
 
 [<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>](https://www.linkedin.com/in/soman24)
 
+[![name](<https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white>)](https://www.linkedin.com/in/soman24)
+
+
 
 https://www.linkedin.com/in/soman24
 
